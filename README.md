@@ -70,7 +70,7 @@ Through this project, I practiced:
 
 ![Sales Dashboard](Sales-Dashboard.png)
 
-### Project Dashboard
+### Projects Dashboard
 
 ![Projects Dashboard](Projects-Dashboard.png)
 
