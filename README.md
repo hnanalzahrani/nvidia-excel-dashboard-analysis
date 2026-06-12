@@ -64,6 +64,18 @@ Through this project, I practiced:
 
 ---
 
+## Dashboard Preview
+
+### Sales Dashboard
+
+![Sales Dashboard](Sales-Dashboard.png)
+
+### Project Dashboard
+
+![Project Dashboard](Project-Dashboard.png)
+
+---
+
 ## Author
 
 Hnan Alzahrani
