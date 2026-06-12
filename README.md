@@ -72,7 +72,7 @@ Through this project, I practiced:
 
 ### Project Dashboard
 
-![Project Dashboard](Project-Dashboard.png)
+![Projects Dashboard](Projects-Dashboard.png)
 
 ---
 
